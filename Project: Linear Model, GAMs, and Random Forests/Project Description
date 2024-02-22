@@ -1,1 +1,2 @@
-This is a project where I evaluate the in-sample and out-of-sample predictive performance of linear models, generalized additive models GAMs, and random forests.
+This is a project where I evaluate the in-sample and out-of-sample predictive performance of linear models, 
+generalized additive models GAMs, and random forests using R.
