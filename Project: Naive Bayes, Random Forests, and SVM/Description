@@ -1,0 +1,5 @@
+
+In this project, I assess the predictive performance of Naive Bayes, Random Forests, and SVM algorithms on a corpus comprising US presidential speeches. 
+The aim is to create a comprehensive dataset of threats made by US presidents against other nations. First, I manually code a subset of presidential speeches to 
+determine the presence or absence of threats. Then, I utilize this annotated data to train machine learning models, followed by an evaluation 
+of their predictive accuracy using data not included in the training set.
